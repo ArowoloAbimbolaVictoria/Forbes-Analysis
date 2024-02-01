@@ -65,10 +65,10 @@ Then created a general view of the data.
 
 Then created separate visuals for the Top 10 Female and Male Billionaires, youngest
 billionaires and Top philanthropist.
-![](Top_10)
+![](Top_10.png)
 
 Youngest Billionaires 
-![](Young_billionaires.png)
+![](Young_ billionaires.png)
 
 Top Philanthropist 
 ![](Top_philanthropist.png)
