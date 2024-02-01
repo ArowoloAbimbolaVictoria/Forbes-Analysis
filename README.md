@@ -68,7 +68,7 @@ billionaires and Top philanthropist.
 ![](Top_10.png)
 
 Youngest Billionaires 
-![](Young_ billionaires.png)
+![](Young_billionaires.png)
 
 Top Philanthropist 
 ![](Top_philanthropist.png)
